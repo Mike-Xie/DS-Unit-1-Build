@@ -163,4 +163,4 @@ During Class - Last day of Sprint 4 (Build Week)
 # Add a link to your portfolio:
 This will assist the TLs in gathering up links to everybody's portfolio site. Remember that we should be able to get to your code on github and your blog post from your portfolio site, so this should be the only link that we need in order to access the rest of your project deliverables.
 
-[Example Link](http://www.dsglossary.com)
+[Mike Xie Unit 1 Sprint Link](https://medium.com/@mikexie/open-sex-role-inventory-analysis-by-gender-5e9c3a8c021e?sk=79a283d6b09969c8bd25bf848221c5a4)
